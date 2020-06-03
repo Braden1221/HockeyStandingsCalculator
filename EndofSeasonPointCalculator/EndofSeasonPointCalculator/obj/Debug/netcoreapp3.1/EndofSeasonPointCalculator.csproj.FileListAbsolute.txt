@@ -1,0 +1,13 @@
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\bin\Debug\netcoreapp3.1\EndofSeasonPointCalculator.exe
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\bin\Debug\netcoreapp3.1\EndofSeasonPointCalculator.deps.json
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\bin\Debug\netcoreapp3.1\EndofSeasonPointCalculator.runtimeconfig.json
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\bin\Debug\netcoreapp3.1\EndofSeasonPointCalculator.runtimeconfig.dev.json
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\bin\Debug\netcoreapp3.1\EndofSeasonPointCalculator.dll
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\bin\Debug\netcoreapp3.1\EndofSeasonPointCalculator.pdb
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\obj\Debug\netcoreapp3.1\EndofSeasonPointCalculator.csprojAssemblyReference.cache
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\obj\Debug\netcoreapp3.1\EndofSeasonPointCalculator.csproj.CoreCompileInputs.cache
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\obj\Debug\netcoreapp3.1\EndofSeasonPointCalculator.AssemblyInfoInputs.cache
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\obj\Debug\netcoreapp3.1\EndofSeasonPointCalculator.AssemblyInfo.cs
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\obj\Debug\netcoreapp3.1\EndofSeasonPointCalculator.dll
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\obj\Debug\netcoreapp3.1\EndofSeasonPointCalculator.pdb
+C:\Users\dbrking\source\repos\EndofSeasonPointCalculator\EndofSeasonPointCalculator\obj\Debug\netcoreapp3.1\EndofSeasonPointCalculator.genruntimeconfig.cache
